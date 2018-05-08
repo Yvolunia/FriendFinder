@@ -2,7 +2,7 @@
 var friends = [
     {
       name: "Jerry Alexander",
-      photo: "https://images.pexels.com/photos/555790/pexels-photo-555790.png?cs=srgb&dl=black-and-white-black-and-white-boy-555790.jpg&fm=jpg, https://www.pexels.com/photo/man-in-crew-neck-shirt-555790/",
+      photo: "https://images.pexels.com/photos/555790/pexels-photo-555790.png?cs=srgb&dl=black-and-white-black-and-white-boy-555790.jpg",
       scores: [
         "5",
         "1",
@@ -18,7 +18,7 @@ var friends = [
     },
     {
       name: "Elain Richards",
-      photo: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?cs=srgb&dl=beautiful-brunette-cute-774909.jpg&fm=jpg.",
+      photo: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?cs=srgb&dl=beautiful-brunette-cute-774909.jpg",
       scores: [
         "4",
         "2",
@@ -34,7 +34,7 @@ var friends = [
     },
     {
       name: "Ruth Stiller",
-      photo: "https://images.pexels.com/photos/773371/pexels-photo-773371.jpeg?cs=srgb&dl=adult-beautiful-close-up-773371.jpg&fm=jpg, https://www.pexels.com/photo/woman-wearing-eyeglasses-773371/",
+      photo: "https://images.pexels.com/photos/773371/pexels-photo-773371.jpeg?cs=srgb&dl=adult-beautiful-close-up-773371.jpg",
       scores: [
         "5",
         "2",
@@ -50,7 +50,7 @@ var friends = [
     },
     {
       name: "Michael Harris",
-      photo: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=adult-beard-boy-220453.jpg&fm=jpg, https://www.pexels.com/photo/adult-beard-boy-casual-220453/",
+      photo: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=adult-beard-boy-220453.jpg",
       scores: [
         "3",
         "3",
