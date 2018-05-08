@@ -18,7 +18,7 @@ var friends = [
     },
     {
       name: "Elain Richards",
-      photo: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?cs=srgb&dl=beautiful-brunette-cute-774909.jpg&fm=jpg."
+      photo: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?cs=srgb&dl=beautiful-brunette-cute-774909.jpg&fm=jpg.",
       scores: [
         "4",
         "2",

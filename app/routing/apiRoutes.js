@@ -11,8 +11,6 @@ module.exports = function(app) {
   });
 
   app.post("/api/friends", function(req, res) {
-    res.json(friends);
-  });
 
   // Logic
 
@@ -48,7 +46,6 @@ module.exports = function(app) {
     }
 
     friends.push(userData);
-
     res.json(bestMatch);
   });
 };
